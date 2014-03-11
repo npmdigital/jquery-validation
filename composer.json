@@ -1,0 +1,19 @@
+{
+    "name": "npmweb/jquery-validation",
+    "type": "component",
+    "require": {
+        "robloach/component-installer": "*",
+        "components/jquery": ">=1.6.4"
+    },
+    "extra": {
+        "component": {
+            "scripts": [
+                "jquery.validate.min.js",
+                "additional-methods.min.js"
+            ],
+            "shim": {
+                "deps": ["jquery"]
+            }
+        }
+    }
+}
