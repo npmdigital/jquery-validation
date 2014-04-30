@@ -1,6 +1,8 @@
 {
     "name": "npmweb/jquery-validation",
+    "description": "jQuery Validation plugin available as a Composer component",
     "type": "component",
+    "license": "MIT",
     "require": {
         "robloach/component-installer": "*",
         "components/jquery": ">=1.6.4"
