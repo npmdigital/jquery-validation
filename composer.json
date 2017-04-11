@@ -1,5 +1,5 @@
 {
-    "name": "npmdigital/jquery-validation",
+    "name": "npmweb/jquery-validation",
     "description": "jQuery Validation plugin available as a Composer component",
     "type": "component",
     "license": "MIT",
